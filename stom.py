@@ -2,6 +2,9 @@
 #____________________________________________________________
 # STOM - ver: 1.0
 # 
+# 
+# small modification
+# 
 # About:
 # This programs is a service which receives SMS messages through
 # some GSM dongles and at pre difined times send them to predifind
